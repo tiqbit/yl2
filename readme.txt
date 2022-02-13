@@ -1,4 +1,4 @@
-Piltid on võetud:
+Pildid on võetud:
 banner - https://pixabay.com/photos/cook-healthy-food-meal-vegetables-2364182/
 meist - https://pixabay.com/photos/woman-man-kitchen-food-preparation-1979272/
 itaaliakook - https://pixabay.com/photos/pizza-italian-pasta-food-cheese-5179939/
